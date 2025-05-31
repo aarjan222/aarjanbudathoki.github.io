@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Autonomous Vehicle, Mapping, Path Planning & Navigation
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: College Projects
 related_publications: true
 ---
 
